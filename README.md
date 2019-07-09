@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+This is a simple webstire
+
 ## Introduction
 
 ## Purpose
