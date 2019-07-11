@@ -16,3 +16,6 @@ text
 ## How To Contribute
 
 dwdwewedwedwe2
+
+##Copyright
+Section
