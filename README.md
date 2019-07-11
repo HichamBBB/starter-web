@@ -16,6 +16,7 @@ text
 ## How To Contribute
 
 dwdwewedwedwe2
+Adding a text for merging puposes
 
 ##Copyright
 Section
