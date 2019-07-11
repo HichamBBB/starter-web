@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hicham BAHIR bahir.hicham@gmail.com
 
 # THANKS
 
