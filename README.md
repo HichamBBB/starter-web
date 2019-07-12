@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple webstire
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changes from myfeature branch too
 
 ## Introduction
 
