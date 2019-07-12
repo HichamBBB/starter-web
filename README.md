@@ -2,6 +2,7 @@
 
 This is a simple webstire
 Adding a line for rebasing example, then more changes from myfeature branch too
+emergency fix after stash
 
 ## Introduction
 
