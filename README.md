@@ -21,3 +21,4 @@ Adding a text for merging puposes
 
 ##Copyright
 Section
+All rights reserved
