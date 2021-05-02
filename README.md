@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+Simple web site projectr to exervices on git
 
 ## Introduction
 
