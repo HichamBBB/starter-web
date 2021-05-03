@@ -21,4 +21,4 @@ This bla bla deployment
 change to matser blabla 
 
 ##Copyright
-Git . Training 
+Git . Training All rights reserved
