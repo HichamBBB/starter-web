@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 Simple web site projectr to exervices on git
+Adding mor text fo the rebase example
 
 ## Introduction
 
