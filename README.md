@@ -3,6 +3,7 @@
 Simple web site projectr to exervices on git
 Adding mor text fo the rebase example, then more 
 changes for myfeature branch too
+Emergency fix afgter stash
 
 ## Introduction
 
