@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 Simple web site projectr to exervices on git
-Adding mor text fo the rebase example
+Adding mor text fo the rebase example, then more 
+changes for myfeature branch too
 
 ## Introduction
 
