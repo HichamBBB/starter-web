@@ -16,6 +16,7 @@ This bla bla deployment
 
 ## How To Contribute
 
+change to matser blabla 
 
 ##Copyright
 Git . Training 
